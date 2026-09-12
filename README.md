@@ -16,9 +16,7 @@ Microsoft Excel, Microsoft Word,
 Jira,
 GitHub
 
-. Document Index
-This is basically a list of the documents/files available in your GitHub repository, for example:
-Document Description
+Document Index: 
 1. Test Scenarios: Contains testing scenarios
 2. Test Cases: Contains detailed test cases
 3. RTM: Requirement Traceability Matrix
